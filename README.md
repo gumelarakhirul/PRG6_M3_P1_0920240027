@@ -1,8 +1,3 @@
-react-native-attendance-app
-
-ABOUT
-A React Native attendance application implementing functional and class components with lifecycle methods for managing student presence.
-
 ReadMe
 # React Native Attendance App
 
